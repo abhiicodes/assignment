@@ -1,9 +1,6 @@
 # Flow Builder
 
-A visual flow builder SPA where users can create, edit, and export flowcharts with conditional transitions as JSON. Built for the Bolna assignment.
-
-![Flow Builder Screenshot](screenshot.png)
-
+A visual flow builder SPA where users can create, edit, and export flowcharts with conditional transitions as JSON. 
 ## Quick Start
 
 ```bash
